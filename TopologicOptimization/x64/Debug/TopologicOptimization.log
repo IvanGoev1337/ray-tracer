@@ -1,0 +1,6 @@
+﻿  TopologicOptimization.cpp
+C:\Users\user\source\repos\TopologicOptimization\TopologicOptimization\TopologicOptimization.cpp(143,10): warning C4101: err: неиспользованная локальная переменная
+  vector.cpp
+  Создание кода...
+C:\Users\user\source\repos\TopologicOptimization\TopologicOptimization\ray.cpp(26,1): error C4716: ray::operator=: должна возвращать значение
+C:\Users\user\source\repos\TopologicOptimization\TopologicOptimization\vector.cpp(32,1): error C4716: vector::operator=: должна возвращать значение
